@@ -4,7 +4,7 @@
 - 📚 Estudando para ser full-stack.
 - 📖 Cursando Engenharia de Software.
 - ✉️ Contato profissional: valdsoncttprofissional@gmail.com
-- 🤔 learning in progress: React Native, Phyton, Node.js e React,js.
+- 🤔 learning in progress: PHP,JS.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Valdson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
