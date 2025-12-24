@@ -3,7 +3,7 @@
 - 👨‍💻 Apaixonado por tecnologia e desenvolvimento de soluções digitais.  
 - 🛠️ Experiência em **Java, PHP, C/C++, HTML, CSS, Node.js e React.js**.  
 - 🎯 Objetivo: consolidar carreira como **Desenvolvedor Full-Stack**.  
-- 🎓 Cursando **Engenharia de Software**.  
+- 🎓 **Engenheiro de Software**.  
 - 📬 Contato profissional: **valdsoncttprofissional@gmail.com**  
 
 ---
