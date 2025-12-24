@@ -23,12 +23,12 @@
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
+### Minhas Estatísticas no GitHub
 <div align="center">
-  <a href="https://github.com/ValdsonTenorio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdsonTenorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdsonTenorio&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdsonMartinsTenorio&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdsonMartinsTenorio&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+
 
 ---
 
