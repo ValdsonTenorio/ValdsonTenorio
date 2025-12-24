@@ -22,15 +22,5 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ValdsonMartinsTenorio&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValdsonMartinsTenorio&layout=compact&langs_count=7&theme=tokyonight)
-
-
-
----
-
 ### 🌐 Redes Sociais
 <div> <a href="https://www.linkedin.com/in/valdson-m-b91727213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
