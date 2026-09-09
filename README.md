@@ -29,17 +29,6 @@
 </p>
 
 ---
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ValdsonTenorio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-</p>
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValdsonTenorio&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 🌐 Contato
