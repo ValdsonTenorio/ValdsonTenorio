@@ -4,14 +4,24 @@
   💻 Desenvolvedor Full-Stack | 🚀 Engenharia de Software
 </p>
 
+<p align="center">
+  <a href="https://valdson.dev.br" target="_blank">
+    <img 
+      alt="Acessar meu site pessoal"
+      src="https://img.shields.io/badge/🌐_Conheça_meu_site-valdson.dev.br-FF6B6B?style=for-the-badge"
+    >
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 💻 Desenvolvedor Full-Stack
-- 🚀 Focado em aplicações web, APIs e automações
-- 🎓 Engenharia de Software
-- 📬 Contato: **valdsoncttprofissional@gmail.com**
+* 💻 Desenvolvedor Full-Stack
+* 🚀 Focado em aplicações web, APIs e automações
+* 🎓 Engenharia de Software
+* 🌐 Site pessoal: **[valdson.dev.br](https://valdson.dev.br)**
+* 📬 Contato: **[valdsoncttprofissional@gmail.com](mailto:valdsoncttprofissional@gmail.com)**
 
 ---
 
@@ -33,6 +43,10 @@
 ## 🌐 Contato
 
 <p align="center">
+  <a href="https://valdson.dev.br" target="_blank">
+    <img src="https://img.shields.io/badge/-Meu%20site-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
   <a href="https://www.linkedin.com/in/valdson-m-b91727213/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
